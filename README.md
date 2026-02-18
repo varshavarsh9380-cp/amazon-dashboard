@@ -2,6 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](Screenshot 2026-02-18 232551.png)
+![Dashboard](Screenshot%202026-02-18%20232551.png)
+2551.png)
 
 Built using Power BI.
